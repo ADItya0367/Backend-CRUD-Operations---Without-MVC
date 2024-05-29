@@ -1,0 +1,4 @@
+We will be creating a CRUD operation related to students .
+We will be defining the different roles 
+We will not  be using any architecture design like monolithic or microservice
+We will be using Ngrok for accessing the localhost in public url form 
